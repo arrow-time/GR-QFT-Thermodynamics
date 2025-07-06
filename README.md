@@ -1,4 +1,4 @@
-# GR-QFT-Thermodynamics
+# GR,QFT and Thermodynamics in locality
 
 This article mainly discusses the current major challenges in unifying general relativity, quantum field theory, and thermodynamics — primarily from a personal perspective.
 
